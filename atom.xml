@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://issccjssc.github.io/</id>
     <title>IC</title>
-    <updated>2022-03-30T14:54:57.435Z</updated>
+    <updated>2022-03-30T14:55:30.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://issccjssc.github.io/"/>
     <link rel="self" href="http://issccjssc.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="http://issccjssc.github.io/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/">
         </link>
         <updated>2022-03-30T14:40:43.000Z</updated>
-        <content type="html"><![CDATA[<p>开心每一天😀😀😀😀<br>
-<img src="http://issccjssc.github.io//post-images/1648651708410.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>开心每一天😀😀😀😀</p>
 ]]></content>
     </entry>
 </feed>
