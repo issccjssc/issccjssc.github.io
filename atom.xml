@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://issccjssc.github.io/</id>
     <title>IC</title>
-    <updated>2022-03-31T14:29:53.176Z</updated>
+    <updated>2022-03-31T14:39:03.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://issccjssc.github.io/"/>
     <link rel="self" href="http://issccjssc.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>http://issccjssc.github.io/images/avatar.png</logo>
     <icon>http://issccjssc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, IC</rights>
+    <entry>
+        <title type="html"><![CDATA[learning tool]]></title>
+        <id>http://issccjssc.github.io/post/learning-tool/</id>
+        <link href="http://issccjssc.github.io/post/learning-tool/">
+        </link>
+        <updated>2022-03-31T14:33:53.000Z</updated>
+        <content type="html"><![CDATA[<p>💡U campus:<br>
+https://mp.weixin.qq.com/s/AE7VTSAbec9_LOmLvEIq9Q<br>
+https://mp.weixin.qq.com/s/KGwDlfSygW-QcPRKAhHHEw</p>
+<p>💡math basic：<br>
+https://mp.weixin.qq.com/mp/homepage?__biz=MzU0MTc2Njg4Nw==&amp;hid=11&amp;sn=5d76ca80fb20cc159d45b85ca39569a5&amp;scene=1&amp;devicetype=android-30&amp;version=28001455&amp;lang=zh_CN&amp;nettype=WIFI&amp;ascene=59&amp;session_us=gh_4282cd9b98eb&amp;wx_header=3</p>
+<p>💡soren:<br>
+https://uni.sorenenglish.com/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[                            微系统技术现状及发展综述]]></title>
         <id>http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/</id>
@@ -239,13 +254,13 @@ Jun. 2019</p>
         <link href="http://issccjssc.github.io/post/jing-ji-xue-ren-jing-du-329/">
         </link>
         <updated>2022-03-30T14:23:49.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="http://issccjssc.github.io//post-images/1648735974326.jpg" alt="" loading="lazy"><br>
-Unit-1<br>
-🌈Day2 知识点梳理</p>
+        <summary type="html"><![CDATA[<pre><code>                                                             Unit-1 
+                                                   🌈Day2 知识点梳理
+</code></pre>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="http://issccjssc.github.io//post-images/1648735974326.jpg" alt="" loading="lazy"><br>
-Unit-1<br>
-🌈Day2 知识点梳理</p>
+        <content type="html"><![CDATA[<pre><code>                                                             Unit-1 
+                                                   🌈Day2 知识点梳理
+</code></pre>
 <!-- more -->
 <p>【1】 impose sth on sb 强加<br>
 impose silence on the class<br>
@@ -300,7 +315,7 @@ Once he nearly toppled down a flight of stairs.（原版书《了不起的盖茨
 <p>【18】 关于pressure的几种搭配<br>
 给...施加压力 apply/put/place pressure on sb.<br>
 躲避压力 escape, get away with, evade</p>
-<p><img src="http://issccjssc.github.io//post-images/1648736603391.jpg" alt="" loading="lazy"><br>
+<p><img src="http://issccjssc.github.io//post-images/1648737524464.jpg" alt="" loading="lazy"><br>
 🌈Day3 知识点梳理</p>
 <p>【19】 cross the Rubicon 越过雷池、破釜沉舟、断然采取行动<br>
 On February 26th that Rubicon was crossed, when sanctions were imposed on the world’s 11th-biggest economy.<br>
