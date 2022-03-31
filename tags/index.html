@@ -1,88 +1,183 @@
+<!DOCTYPE html>
 <html>
   <head>
-  <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>IC</title>
-<link rel="shortcut icon" href="http://issccjssc.github.io//favicon.ico?v=1648737541614">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    <meta charset="utf-8" >
+
+<title>标签列表 | IC</title>
+<meta name="description" content="BE BETTER">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="http://issccjssc.github.io//favicon.ico?v=1648737824182">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="http://issccjssc.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="IC - Atom Feed" href="http://issccjssc.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
-  <meta name="description" content="BE BETTER" />
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="http://issccjssc.github.io/">
-  <img class="avatar" src="http://issccjssc.github.io//images/avatar.png?v=1648737541614" alt="">
-  </a>
-  <h1 class="site-title">
-    IC
-  </h1>
-  <p class="site-description">
-    BE BETTER
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          home
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          archives
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          tags
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          about
-        </a>
-      
-    
+    <nav class="navbar border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="http://issccjssc.github.io/">IC</a></h3>
   </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-</div>
-
-
-        <div class="tags-container">
-          
-            <a class="tag" href="http://issccjssc.github.io/tag/cxreoakmb/">英语学习</a>
-          
-        </div>
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">qiao</a>
-  <a class="rss" href="http://issccjssc.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
-      </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+      <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+        
+          <li>
+            
+              <a href="/" class="menu">
+                home
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/archives" class="menu">
+                archives
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/tags" class="menu">
+                tags
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/post/about" class="menu">
+                about
+              </a>
+            
+          </li>
+        
+      </ul>
     </div>
+  </div>
+</nav>
+
+    <div id="top" class="row site">
+      <div class="sm-12 md-8 col">
+        <div class="paper">
+          <h2 class="tag-list-title">标签列表</h2>
+          <div class="row tags-container">
+            
+              <a href="http://issccjssc.github.io/tag/cxreoakmb/" class="badge success">
+                英语学习
+              </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="sm-12 md-4 col sidebar">
+  <div class="paper info-container">
+    <img src="http://issccjssc.github.io//images/avatar.png?v=1648737824182" class="no-responsive avatar">
+    <div class="text-muted">BE BETTER</div>
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      最新文章
+    </div>
+    <div class="row">
+      <ul>
+        
+          
+            <li>
+              <a href="http://issccjssc.github.io/post/learning-tool/">learning tool</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">                            微系统技术现状及发展综述</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://issccjssc.github.io/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/">大家好，欢迎大家来到小桥的网站</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://issccjssc.github.io/post/jing-ji-xue-ren-jing-du-329/">                                经济学人精度 3.29  </a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://issccjssc.github.io/post/about/">关于</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      标签列表
+    </div>
+    <div class="row">
+      
+        <a href="http://issccjssc.github.io/tag/cxreoakmb/" class="badge ">
+          英语学习
+        </a>
+      
+    </div>
+  </div>
+  <div class="paper">
+    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">qiao</a> | <a class="rss" href="http://issccjssc.github.io//atom.xml" target="_blank">RSS</a>
+  </div>
+</div>
+  
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+</script>
+
+
+
+
   </body>
 </html>
