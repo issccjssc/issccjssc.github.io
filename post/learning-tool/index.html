@@ -4,122 +4,69 @@
     <meta charset="utf-8" >
 
 <title>learning tool | IC</title>
-<meta name="description" content="BE BETTER">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="http://issccjssc.github.io//favicon.ico?v=1648737824182">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="http://issccjssc.github.io//styles/main.css">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1652458422199">
+<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
 
-
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
+
+    <meta name="description" content="💡U campus:
+https://mp.weixin.qq.com/s/AE7VTSAbec9_LOmLvEIq9Q
+https://mp.weixin.qq.com/s/KGwDlfSygW-QcPRKAhHHEw
+💡math b..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
-  
-    <nav class="navbar border fixed split-nav">
-  <div class="nav-brand">
-    <h3><a href="http://issccjssc.github.io/">IC</a></h3>
-  </div>
-  <div class="collapsible">
-    <input id="collapsible1" type="checkbox" name="collapsible1">
-    <button>
-      <label for="collapsible1">
-        <div class="bar1"></div>
-        <div class="bar2"></div>
-        <div class="bar3"></div>
-      </label>
-    </button>
-    <div class="collapsible-body">
-      <ul class="inline">
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="http://localhost:4000">
+        <img src="http://localhost:4000/images/avatar.png?v=1652458422199" class="site-logo">
+        <h1 class="site-title">IC</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
         
-          <li>
-            
-              <a href="/" class="menu">
-                home
-              </a>
-            
-          </li>
+          <a href="/" class="site-nav">
+            home
+          </a>
         
-          <li>
-            
-              <a href="/archives" class="menu">
-                archives
-              </a>
-            
-          </li>
+      
         
-          <li>
-            
-              <a href="/tags" class="menu">
-                tags
-              </a>
-            
-          </li>
+          <a href="/archives" class="site-nav">
+            archives
+          </a>
         
-          <li>
-            
-              <a href="/post/about" class="menu">
-                about
-              </a>
-            
-          </li>
+      
         
-      </ul>
+          <a href="/tags" class="site-nav">
+            tags
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            about
+          </a>
+        
+      
     </div>
   </div>
-</nav>
-
-    <div id="top" class="row site">
-      <div class="sm-12 md-8 col">
-        <div class="paper">
-          <article class="article">
-            <h1>learning tool</h1>
-            <p class="article-meta">
-              2022-03-31
-              
-            </p>
-            
-            <div class="post-content">
-              <p>💡U campus:<br>
-https://mp.weixin.qq.com/s/AE7VTSAbec9_LOmLvEIq9Q<br>
-https://mp.weixin.qq.com/s/KGwDlfSygW-QcPRKAhHHEw</p>
-<p>💡math basic：<br>
-https://mp.weixin.qq.com/mp/homepage?__biz=MzU0MTc2Njg4Nw==&amp;hid=11&amp;sn=5d76ca80fb20cc159d45b85ca39569a5&amp;scene=1&amp;devicetype=android-30&amp;version=28001455&amp;lang=zh_CN&amp;nettype=WIFI&amp;ascene=59&amp;session_us=gh_4282cd9b98eb&amp;wx_header=3</p>
-<p>💡soren:<br>
-https://uni.sorenenglish.com/</p>
-
-            </div>
-          </article>
-        </div>
-        <div class="paper" data-aos="fade-in">
-          
-            <div class="next-post">
-              <div class="next">
-                下一篇
-              </div>
-              <a href="http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">
-                <h3 class="post-title">
-                                              微系统技术现状及发展综述
-                </h3>
-              </a>
-            </div>
-          
-        </div>
-        
-      </div>
-
-      <div class="sm-12 md-4 col sidebar">
-  <div class="paper info-container">
-    <img src="http://issccjssc.github.io//images/avatar.png?v=1648737824182" class="no-responsive avatar">
-    <div class="text-muted">BE BETTER</div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
     <div class="social-container">
       
         
@@ -133,76 +80,67 @@ https://uni.sorenenglish.com/</p>
         
       
     </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      最新文章
+    <div class="site-description">
+      BE BETTER
     </div>
-    <div class="row">
-      <ul>
-        
-          
-            <li>
-              <a href="http://issccjssc.github.io/post/learning-tool/">learning tool</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">                            微系统技术现状及发展综述</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="http://issccjssc.github.io/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/">大家好，欢迎大家来到小桥的网站</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="http://issccjssc.github.io/post/jing-ji-xue-ren-jing-du-329/">                                经济学人精度 3.29  </a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="http://issccjssc.github.io/post/about/">关于</a>
-            </li>
-          
-        
-      </ul>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">qiao</a> | <a class="rss" href="http://localhost:4000/atom.xml" target="_blank">RSS</a>
     </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      标签列表
-    </div>
-    <div class="row">
-      
-        <a href="http://issccjssc.github.io/tag/cxreoakmb/" class="badge success">
-          英语学习
-        </a>
-      
-    </div>
-  </div>
-  <div class="paper">
-    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">qiao</a> | <a class="rss" href="http://issccjssc.github.io//atom.xml" target="_blank">RSS</a>
   </div>
 </div>
 
 
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">learning tool</h2>
+            <div class="post-date">2022-03-31</div>
+            
+            <div class="post-content" v-pre>
+              <p>💡U campus:<br>
+https://mp.weixin.qq.com/s/AE7VTSAbec9_LOmLvEIq9Q<br>
+https://mp.weixin.qq.com/s/KGwDlfSygW-QcPRKAhHHEw</p>
+<p>💡math basic：<br>
+https://mp.weixin.qq.com/mp/homepage?__biz=MzU0MTc2Njg4Nw==&amp;hid=11&amp;sn=5d76ca80fb20cc159d45b85ca39569a5&amp;scene=1&amp;devicetype=android-30&amp;version=28001455&amp;lang=zh_CN&amp;nettype=WIFI&amp;ascene=59&amp;session_us=gh_4282cd9b98eb&amp;wx_header=3</p>
+<p>💡soren:<br>
+https://uni.sorenenglish.com/</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="http://localhost:4000/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">
+                  <h3 class="post-title">
+                                                微系统技术现状及发展综述
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
     </div>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
 <script type="application/javascript">
 
 AOS.init();
 
-hljs.initHighlightingOnLoad()
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
+
+
 
 
 
