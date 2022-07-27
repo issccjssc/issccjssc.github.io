@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>http://issccjssc.github.io/</id>
     <title>IC</title>
-    <updated>2022-05-13T16:16:18.120Z</updated>
+    <updated>2022-07-27T13:50:51.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="http://issccjssc.github.io/"/>
+    <link rel="self" href="http://issccjssc.github.io/atom.xml"/>
     <subtitle>BE BETTER</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>http://issccjssc.github.io/images/avatar.png</logo>
+    <icon>http://issccjssc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, IC</rights>
     <entry>
         <title type="html"><![CDATA[learning tool]]></title>
-        <id>http://localhost:4000/post/learning-tool/</id>
-        <link href="http://localhost:4000/post/learning-tool/">
+        <id>http://issccjssc.github.io/post/learning-tool/</id>
+        <link href="http://issccjssc.github.io/post/learning-tool/">
         </link>
         <updated>2022-03-31T14:33:53.000Z</updated>
         <content type="html"><![CDATA[<p>💡U campus:<br>
@@ -27,11 +27,11 @@ https://uni.sorenenglish.com/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[                            微系统技术现状及发展综述]]></title>
-        <id>http://localhost:4000/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/</id>
-        <link href="http://localhost:4000/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">
+        <id>http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/</id>
+        <link href="http://issccjssc.github.io/post/wei-xi-tong-ji-zhu-xian-zhuang-ji-fa-zhan-zong-shu/">
         </link>
         <updated>2022-03-31T13:55:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1648736689095.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://issccjssc.github.io//post-images/1648736689095.jpg" alt="" loading="lazy"></figure>
 <p>Overview of microsystem technology and its development<br>
 MA  Fuming1 ，WANG Hui 2<br>
 ( 1. Navy Equipment Department，Xi'an Military Representative Bureau，Xi'an 710000，China;<br>
@@ -240,18 +240,18 @@ Jun. 2019</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[大家好，欢迎大家来到小桥的网站]]></title>
-        <id>http://localhost:4000/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/</id>
-        <link href="http://localhost:4000/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/">
+        <id>http://issccjssc.github.io/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/</id>
+        <link href="http://issccjssc.github.io/post/da-jia-hao-huan-ying-da-jia-lai-dao-xiao-qiao-de-wang-zhan/">
         </link>
         <updated>2022-03-30T14:40:43.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/1648653248909.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="http://issccjssc.github.io//post-images/1648653248909.jpg" alt="" loading="lazy"><br>
 开心每一天😀😀😀😀</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[                                经济学人精度 3.29  ]]></title>
-        <id>http://localhost:4000/post/jing-ji-xue-ren-jing-du-329/</id>
-        <link href="http://localhost:4000/post/jing-ji-xue-ren-jing-du-329/">
+        <id>http://issccjssc.github.io/post/jing-ji-xue-ren-jing-du-329/</id>
+        <link href="http://issccjssc.github.io/post/jing-ji-xue-ren-jing-du-329/">
         </link>
         <updated>2022-03-30T14:23:49.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>                                                             Unit-1 
@@ -291,7 +291,7 @@ In our work this year, we must make economic stability our top priority and purs
 今年工作要坚持稳字当头、稳中求进。</p>
 <p>【10】 doctrine 信条;主义;学说;尤指宗教教义<br>
 Then it must create a doctrine to govern these weapons in order to prevent a broader shift towards autarky.</p>
-<p><img src="http://localhost:4000/post-images/1648736560970.jpg" alt="" loading="lazy"><br>
+<p><img src="http://issccjssc.github.io//post-images/1648736560970.jpg" alt="" loading="lazy"><br>
 🌈Day3 知识点梳理</p>
 <p>【11】 take...seriously; take...for granted<br>
 The fact that Russia did not take the threat of sanctions seriously at first is no surprise.<br>
@@ -315,7 +315,7 @@ Once he nearly toppled down a flight of stairs.（原版书《了不起的盖茨
 <p>【18】 关于pressure的几种搭配<br>
 给...施加压力 apply/put/place pressure on sb.<br>
 躲避压力 escape, get away with, evade</p>
-<p><img src="http://localhost:4000/post-images/1648737524464.jpg" alt="" loading="lazy"><br>
+<p><img src="http://issccjssc.github.io//post-images/1648737524464.jpg" alt="" loading="lazy"><br>
 🌈Day3 知识点梳理</p>
 <p>【19】 cross the Rubicon 越过雷池、破釜沉舟、断然采取行动<br>
 On February 26th that Rubicon was crossed, when sanctions were imposed on the world’s 11th-biggest economy.<br>
